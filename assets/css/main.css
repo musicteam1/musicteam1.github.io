@@ -69,6 +69,10 @@ html{
     padding:0 24px;
     color:#fff;
 }
+.fas.fa-search:hover{
+    color:#000;
+    background-color:red;
+}
 .slider{
     background-image:url(https://www.w3schools.com/w3images/chicago.jpg);
     margin-top:46px;
